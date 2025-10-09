@@ -5,7 +5,7 @@
 </p>
 
 <p align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://media1.tenor.com/m/IoIVL_B7oScAAAAd/dexter-dexter-stare.gif" width="400" alt="">
+  <img src="https://media1.tenor.com/m/MMItUi4WYPMAAAAd/dexter-morgan-dexter-morgan-confused.gif" width="400" alt="">
 </p>
 
 ### 🧠 Langages & Frameworks
